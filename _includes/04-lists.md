@@ -1,0 +1,5 @@
+- Pelit
+- Hyvä ruoka
+- Olut
+- Elokuvat
+- vapaa-aika
